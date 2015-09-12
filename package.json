@@ -1,0 +1,19 @@
+{
+  "name": "etcdq",
+  "version": "0.0.1",
+  "description": "Q library with ETCD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "etcd",
+    "q"
+  ],
+  "author": "Sergey Romanov",
+  "license": "MIT",
+  "dependencies": {
+    "node-etcd": "^4.0.2",
+    "q": "^1.4.1"
+  }
+}
